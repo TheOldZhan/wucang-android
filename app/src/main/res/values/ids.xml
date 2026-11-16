@@ -1,0 +1,9 @@
+<resources>
+    <item name="inventory_search" type="id" />
+    <item name="item_name" type="id" />
+    <item name="item_quantity" type="id" />
+    <item name="item_unit" type="id" />
+    <item name="item_threshold" type="id" />
+    <item name="item_location" type="id" />
+    <item name="item_note" type="id" />
+</resources>
