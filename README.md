@@ -17,7 +17,7 @@
 
 ## 安装
 
-从 [GitHub Releases](https://github.com/TheOldZhan/wucang-android/releases/latest) 下载 APK、源码 ZIP 和 `SHA256SUMS.txt`。
+从 [GitHub Releases](https://github.com/TheOldZhan/wucang-android/releases/latest) 下载 APK 和 `SHA256SUMS.txt`（APK 的 SHA-256 校验值）。源码可通过该页面自动提供的 **Source code (zip)** 或 **Source code (tar.gz)** 下载。
 
 本地构建后的安装包位于 `artifacts/WuCang-1.0.0-debug.apk`。
 

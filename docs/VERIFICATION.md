@@ -4,8 +4,8 @@
 
 ## 交付物
 
-- APK、源码 ZIP 及校验值：[v1.0.0 Release](https://github.com/TheOldZhan/wucang-android/releases/tag/v1.0.0)。
-- 发布附件中的 `SHA256SUMS.txt` 记录实际 APK 和源码包的 SHA-256。
+- APK 及校验值：[v1.0.0 Release](https://github.com/TheOldZhan/wucang-android/releases/tag/v1.0.0)。源码使用 GitHub 自动提供的 **Source code (zip)** / **Source code (tar.gz)** 下载。
+- 发布附件中的 `SHA256SUMS.txt` 仅记录实际 APK 的 SHA-256。
 - APK v2 签名验证通过，Android Debug 证书。
 - 最低 SDK 26，目标 SDK 35，编译 SDK 36.1。安装包首次运行不包含测试物品。
 
